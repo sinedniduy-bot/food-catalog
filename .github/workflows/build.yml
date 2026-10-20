@@ -147,3 +147,4 @@ jobs:
           name: "Сборка #${{ github.run_number }}"
           files: FoodCatalog.apk
 concurrency: 
+# Trigger a fresh workflow run
